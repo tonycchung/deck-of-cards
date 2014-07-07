@@ -4,7 +4,7 @@ By [Tony Chung](http://www.github.com/tonycchung).
 
 ## Description
 
-**Small project containing the necessary test to satisfy the following user stories:**
+**A small project modeling a deck of cards built based on the following user stories:
 
 As a developer  
 
@@ -22,5 +22,5 @@ So that I can play a standard game of cards.
 
 ## Approach
 
-Used BDD to first write tests to satisfy the above specs and utilized  
+Used BDD to first write tests to satisfy the above specs and went through
 the RED/GREEN/REFACTOR process to write the code and pass the failing tests.
