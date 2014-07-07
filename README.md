@@ -1,24 +1,23 @@
 # OO Design: Deck of Cards
 
-
 By [Tony Chung](http://www.github.com/tonycchung).
 
 ## Description
 
-**Small project containing the necessary test to satisfy the following specs:**
+**Small project containing the necessary test to satisfy the following user stories:**
 
-```As a``` developer  
+As a developer  
 
-```I want``` to create a card with a particular suit and rank  
+I want to create a card with a particular suit and rank  
 
-```So that``` I can build a deck with the created card.  
+So that I can build a deck with the created card.  
 
 ==
-```As a``` player of a card game  
+As a player of a card game  
 
-```I want``` a deck of 52 cards  
+I want a deck of 52 cards  
 
-```So that``` I can play a standard game of cards.  
+So that I can play a standard game of cards.  
 
 
 ## Approach
